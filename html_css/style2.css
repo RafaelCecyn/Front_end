@@ -1,0 +1,286 @@
+header, main {
+	background: #373741	
+
+
+}
+
+.cabecalho-menu{
+
+}
+h1{
+	text-transform: uppercase;
+	color: #fef9e2;
+	font-size: 50px;
+	font-family: 'Open Sans', sans-serif;
+	text-decoration: none;
+	margin: 0%;
+	padding: 15px;
+	
+}
+
+.contato {
+	color: #fef9e2;
+	font-size: 25px;
+	font-family: 'Open Sans', sans-serif;
+	text-decoration: none;
+	margin: 0%;
+	padding: 15px;
+}
+
+.email-principal, .telefone-principal, .linkedin-principal {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: flex-start;
+
+
+} 
+
+.email, .telefone, .linkedin {
+	width: 5%;
+	padding: 15px;
+}
+
+.meuemail, .meutelefone, .meulinkedin {
+	color: #fef9e2;
+}
+
+.titulo-centralizado, .idiomas {
+	color: #fef9e2;
+	font-size: 30px;
+	font-family: 'Open Sans', sans-serif;
+	text-decoration: none;
+	margin: 0%;
+	padding: 15px;
+}
+
+.PUCPR, .UFPR, .ingles, .espanhol, .alemao{
+	color: #fef9e2;
+	font-size: 20px;
+	font-family: 'Open Sans', sans-serif;
+	text-decoration: none;
+	margin: 0%;
+	padding: 15px;
+}
+
+.principal3{
+
+	position: absolute;
+	top: 10px;
+	left: 480px;
+	width: 50%;
+
+}
+
+.experiencia {
+	color: #fef9e2;
+	font-size: 30px;
+	font-family: 'Open Sans', sans-serif;
+	text-decoration: none;
+	margin: 0%;
+	padding: 15px;
+
+}
+
+.iniciacao, .renault {
+	color: #fef9e2;
+	font-size: 20px;
+	font-family: 'Open Sans', sans-serif;
+	text-decoration: none;
+	margin: 0%;
+	padding: 15px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+/*nav {
+	position: absolute;
+	width: 50%;
+	height: 52%;
+	background: #696969;
+
+}
+nav li {
+	margin: 15 15 15 15px;
+}
+
+.itens{
+
+	text-transform: uppercase;
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 40px;
+	text-decoration: none;
+	margin: 10px 0;
+
+}
+
+.contato {
+
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 30px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.email{
+
+	width: 5%;
+
+}
+
+.meuemail{
+
+	color: #FFFFFF;
+	position: absolute;
+	top: 230px;
+	left: 40px;
+}
+
+.telefone {
+
+	width: 5%;
+	position: absolute;
+	top: 260px;
+	left: 0px;
+
+}
+
+.meutelefone{
+
+	color: #FFFFFF;
+	position: absolute;
+	top: 270px;
+	left: 40px;
+}
+
+.linkedin {
+
+	width: 5%;
+	position: absolute;
+	top: 300px;
+	left: 0px;
+
+}
+
+.meulinkedin{
+
+	color: #FFFFFF;
+	position: absolute;
+	top: 310px;
+	left: 40px;
+}
+
+.principal{
+	position: absolute;
+	top: 350px;
+	left: 0px;
+	background: #696969;
+	width: 50%;
+}
+
+.titulo-centralizado{
+
+	font-size: 30px;
+	color: #FFFFFF;
+	text-transform: uppercase;
+	padding: 10px 10px;
+}
+
+.PUCPR {
+
+	font-size: 15px;
+	color: #FFFFFF;
+	text-transform: uppercase;
+	padding: 10px 10px;
+
+}
+
+.UFPR {
+
+	font-size: 15px;
+	color: #FFFFFF;
+	text-transform: uppercase;
+	padding: 10px 10px;
+}
+
+.principal2 {
+	
+	position: absolute;
+	top: 500px;
+	left: 0px;
+	background: #696969;
+	width: 50%;
+	
+}
+
+.idiomas {
+
+	font-size: 30px;
+	color: #FFFFFF;
+	text-transform: uppercase;
+	padding: 10px 10px;
+
+}
+
+.ingles{
+
+	font-size: 15px;
+	color: #FFFFFF;
+	text-transform: uppercase;
+	padding: 10px 10px;
+
+}
+
+.espanhol {
+
+	font-size: 15px;
+	color: #FFFFFF;
+	text-transform: uppercase;
+	padding: 10px 10px;
+}
+
+.alemao{
+
+	font-size: 15px;
+	color: #FFFFFF;
+	text-transform: uppercase;
+	padding: 10px 10px;
+}
+
+.principal3{
+
+	position: absolute;
+	top: 0px;
+	left: 680px;
+	background: #696969;
+	width: 50%;
+
+}
+
+.experiencia{
+
+	font-size: 30px;
+	color: #FFFFFF;
+	text-transform: uppercase;
+	padding: 10px 10px;
+}
+
+.iniciacao{
+
+	font-size: 15px;
+	color: #FFFFFF;
+	text-transform: uppercase;
+	padding: 10px 10px;
+
+}
